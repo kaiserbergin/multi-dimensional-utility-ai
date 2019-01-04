@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace MultiDimensionalUtilityAI.Blackboard.Entities {
-    public class SimpleAIDataElement<T> : AIDataElementBase<T>
+    public class SimpleAIDataElement<T> : AIDataElementBase<T>, ISimpleAIDataElement<T>
     {
         private T value;
 

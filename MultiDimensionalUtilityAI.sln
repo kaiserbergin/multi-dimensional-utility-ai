@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalUtilityAI", "MultiDimensionalUtilityAI\MultiDimensionalUtilityAI.csproj", "{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDimensionalUtilityAI", "MultiDimensionalUtilityAI\MultiDimensionalUtilityAI.csproj", "{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalUtilityAITest", "..\MultiDimensionalUtilityAITest\MultiDimensionalUtilityAITest.csproj", "{4819AD14-A243-45DE-9543-E921E162289F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalUtilityAITest", "MultiDimensionalUtilityAITest\MultiDimensionalUtilityAITest.csproj", "{4819AD14-A243-45DE-9543-E921E162289F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
