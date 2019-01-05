@@ -2,11 +2,14 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MultiDimensionalUtilityAI.Blackboard.Entities;
 
-namespace MultiDimensionalUtilityAITest.Blackboard.Entities {
+namespace MultiDimensionalUtilityAITest.Blackboard.Entities
+{
     [TestClass]
-    public class SimpleAIDataElementTest {
+    public class SimpleAIDataElementTest
+    {
         [TestMethod]
-        public void SimpleAIDataElementTestForIntegerNotInitialized() {
+        public void SimpleAIDataElementTestForIntegerNotInitialized()
+        {
             //Arrange
             var simpleInteger = new SimpleAIDataElement<int?>();
 

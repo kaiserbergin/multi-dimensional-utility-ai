@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDimensionalUtilityAI", "MultiDimensionalUtilityAI\MultiDimensionalUtilityAI.csproj", "{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalUtilityAITest", "MultiDimensionalUtilityAITest\MultiDimensionalUtilityAITest.csproj", "{4819AD14-A243-45DE-9543-E921E162289F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalUtilityAITests", "MultiDimensionalUtilityAITests\MultiDimensionalUtilityAITests.csproj", "{6648E796-1083-4C1A-8CD8-033C9573427A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6A07CB2-AE83-484B-8C9B-FE56F1DB9416}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4819AD14-A243-45DE-9543-E921E162289F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4819AD14-A243-45DE-9543-E921E162289F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4819AD14-A243-45DE-9543-E921E162289F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4819AD14-A243-45DE-9543-E921E162289F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6648E796-1083-4C1A-8CD8-033C9573427A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6648E796-1083-4C1A-8CD8-033C9573427A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6648E796-1083-4C1A-8CD8-033C9573427A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6648E796-1083-4C1A-8CD8-033C9573427A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

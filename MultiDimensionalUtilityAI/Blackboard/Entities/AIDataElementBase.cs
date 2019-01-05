@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace MultiDimensionalUtilityAI.Blackboard.Entities {
+namespace MultiDimensionalUtilityAI.Blackboard.Entities
+{
     public abstract class AIDataElementBase<T>
     {
         public abstract Type GetDataType();

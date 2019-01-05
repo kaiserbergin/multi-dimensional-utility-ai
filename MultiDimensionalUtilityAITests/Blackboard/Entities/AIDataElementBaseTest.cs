@@ -3,11 +3,14 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MultiDimensionalUtilityAI.Blackboard.Entities;
 using Moq;
 
-namespace MultiDimensionalUtilityAITest.Blackboard.Entities {
+namespace MultiDimensionalUtilityAITest.Blackboard.Entities
+{
     [TestClass]
-    public class AIDataElementBaseTest {
+    public class AIDataElementBaseTest
+    {
         [TestMethod]
-        public void TestAIDataElementBase() {
+        public void TestAIDataElementBase()
+        {
             //Arrange
             var mockAIDataElementBase = new Mock<AIDataElementBase<int>>();
             int INT_VALUE = 1;
